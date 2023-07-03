@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Login Page</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="script.js"></script>
+    </head>
+    <body>
+        <h1>Login Now</h1>
+        <div class="container">
+            <form>
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" required><br>
+            
+            <label for="password">Password:</label><br>
+            <input type="password" id="password" required><br>
+            <br>
+
+            <button class="my-button" type="submit" onclick="login(event)">Login</button>
+        </form>
+        </div>
+        <p id="error" class="error-message"></p>
+    </body>
+</html>
