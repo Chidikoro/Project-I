@@ -14,3 +14,11 @@ wrong credentials.
 • Once the user inputs their correct credentials (eg: email: dan@gmail.com,
 password: password1) and they are logged in successfully, they get redirected to
 a simple page named Dashboard.
+
+A second project on Python (Stack.py) is also seen. The stack has the following basic operations basic operations:
+• Push - this operation allows you to insert an element into the stack.
+• Pop - this operation allows you to remove an element from the stack.
+• Peek - this operation returns the top element in the stack (by top I mean
+the element to be returned next by the pop operation)
+• isEmpty - returns true or false, if the stack is empty or not.
+• Size - returns the size of the stack.
