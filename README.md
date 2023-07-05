@@ -12,7 +12,7 @@ greeted by your lovely homepage.
 12345678) if it is wrog, the user is shown an error message saying they have inputted the
 wrong credentials.
 • Once the user inputs their correct credentials (eg: email: dan@gmail.com,
-password: password1) and they are logged in successfully, they get redirected to
+password: password1, don@gmail.com, password: password2 & vic@gmail.com, password: password3) and they are logged in successfully, they get redirected to
 a simple page named Dashboard.
 
 A second project on Python (Stack.py) is also seen. The stack has the following basic operations basic operations:
